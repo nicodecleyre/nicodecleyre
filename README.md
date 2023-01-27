@@ -5,5 +5,6 @@
  - :mailbox: You can reach me on [Twitter](https://twitter.com/NicoDeCleyre) or [LinkedIn](https://www.linkedin.com/in/nicodecleyre/)
  - :speech_balloon: Ask me about anything Microsoft Dev related
 
-![Nico De Cleyre's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicodecleyre&theme=city_lights)
+![Nico De Cleyre's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicodecleyre&theme=city_lights&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=nicodecleyre&theme=city-lights&hide_border=true)
 <!--![Nico De Cleyre's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nicodecleyre&theme=city_lights)-->
